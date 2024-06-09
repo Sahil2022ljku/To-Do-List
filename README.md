@@ -4,7 +4,7 @@ A simple web application to manage your daily tasks. Add, edit, and mark tasks a
 ## Installation
 
 1. Clone this repository:
-git clone https://github.com/your-username/my-todo-list.git
+git clone https://github.com/Sahil2022ljku/To-Do-List.git
 
 2. Install dependencies:
 npm install
